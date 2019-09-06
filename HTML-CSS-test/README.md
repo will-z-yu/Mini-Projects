@@ -1,5 +1,4 @@
-This is a mini project for applying basic HTML & CSS knowledge to make a simple
-website as fast as possible and time myself
+### This is a mini project for applying basic HTML & CSS knowledge to make a simple website using a reference as fast as possible and time myself
 
 Rules:
 
