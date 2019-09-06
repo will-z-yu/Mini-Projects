@@ -18,3 +18,13 @@ Some tips:
 2. you can set the width to %, which will change according to the screen width
 
 3. you can set max-width to prevent the component from getting too wide
+
+References:
+
+Large viewport:
+
+<img src="img/reference1.png" width="500"> 
+
+Small viewport:
+
+<img src="img/reference2.png" height="500">
