@@ -13,7 +13,7 @@ appropriately
 
 Some tips:
 
-1. you can actually set the css attribute for <body>  
+1. you can actually set the css attribute for < body> tag
 
 2. you can set the width to %, which will change according to the screen width
 
