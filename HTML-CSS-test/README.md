@@ -11,7 +11,7 @@ appropriately
 
 3. you should use open sans for the font.
 
-some tips:
+Some tips:
 
 1. you can actually set the css attribute for <body>  
 
