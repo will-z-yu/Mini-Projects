@@ -28,7 +28,7 @@ Small viewport:
 
 <img src="img/reference2.png" height="500">
 
-Result:
+### Result:
 
 Total time to complete: 30 mins
 
