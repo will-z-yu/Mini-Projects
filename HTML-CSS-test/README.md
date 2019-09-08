@@ -34,3 +34,10 @@ Total time to complete: 30 mins
 
 Pictures:
 
+Large viewport:
+
+<img src="img/result1.PNG" width="500"> 
+
+Small viewport:
+
+<img src="img/result2.PNG" height="500">
